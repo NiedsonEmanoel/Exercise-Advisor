@@ -1,0 +1,40 @@
+[
+    {
+      "nome_do_exercicio": "PANTURRILHA EM PÉ (MÁQUINA SMITH)",
+      "url_do_video": "https://www.youtube.com/embed/a1tK1gwk7TM",
+      "grupos_musculares": {
+        "primario": "Gastrocnêmio, Sóleo",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Alongamento completo na posição inferior",
+        "Empurre com a bola do pé"
+      ]
+    },
+    {
+      "nome_do_exercicio": "PANTURRILHA UNILATERAL EM PÉ (HALTER)",
+      "url_do_video": "https://www.youtube.com/embed/eqn9bDXvUDI",
+      "grupos_musculares": {
+        "primario": "Gastrocnêmio, Sóleo",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Alongamento completo na posição inferior",
+        "Empurre com a bola do pé",
+        "Segure em algo firme para se equilibrar"
+      ]
+    },
+    {
+      "nome_do_exercicio": "PANTURRILHA UNILATERAL EM PÉ (COLETE DE PESO)",
+      "url_do_video": "https://www.youtube.com/embed/L4A62pXOjCw",
+      "grupos_musculares": {
+        "primario": "Gastrocnêmio, Sóleo",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Alongamento completo na posição inferior",
+        "Empurre com a bola do pé",
+        "Segure em algo firme para se equilibrar"
+      ]
+    }
+  ]

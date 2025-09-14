@@ -1,0 +1,104 @@
+[
+    {
+      "nome_do_exercicio": "EXTENSÃO DE TRONCO NO BANCO (PESO CORPORAL)",
+      "url_do_video": "https://www.youtube.com/embed/mHVog1YhYsA",
+      "grupos_musculares": {
+        "primario": "Glúteo Máximo, Isquiotibiais",
+        "secundario": "Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha a parte superior das costas arredondada para minimizar o envolvimento dos eretores da espinha",
+        "Maximize o movimento a partir dos quadris, não da coluna"
+      ],
+      "intervalo_de_repeticoes_recomendado": "8-15",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "EXTENSÃO DE TRONCO NO BANCO (COM CARGA)",
+      "url_do_video": "https://www.youtube.com/embed/EhTZG3drNv0",
+      "grupos_musculares": {
+        "primario": "Glúteo Máximo, Isquiotibiais",
+        "secundario": "Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha a parte superior das costas arredondada para minimizar o envolvimento dos eretores da espinha",
+        "Maximize o movimento a partir dos quadris, não da coluna"
+      ],
+      "intervalo_de_repeticoes_recomendado": "8-15",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "AGACHAMENTO LIVRE (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/a_zztDLx8-w",
+      "grupos_musculares": {
+        "primario": "Quadríceps, Glúteos",
+        "secundario": "Adutores, Eretores da Espinha, Abdômen"
+      },
+      "dicas_de_tecnica": [
+        "Estabilize o tronco para evitar a flexão da coluna",
+        "Retraia as escápulas e posicione a barra sobre os músculos do trapézio superior",
+        "Empurre com o meio do pé, mantendo o pé inteiro em contato com o chão"
+      ],
+      "intervalo_de_repeticoes_recomendado": "5-10",
+      "proximidade_da_falha": "2-3 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "AGACHAMENTO (MÁQUINA SMITH)",
+      "url_do_video": "https://www.youtube.com/embed/-v4zMPy4BnU",
+      "grupos_musculares": {
+        "primario": "Quadríceps, Glúteo Máximo",
+        "secundario": "Adutores, Eretores da Espinha, Abdômen"
+      },
+      "dicas_de_tecnica": [
+        "Posicione os pés ligeiramente à frente do centro de massa",
+        "Mantenha a posição neutra da coluna"
+      ],
+      "intervalo_de_repeticoes_recomendado": "5-10",
+      "proximidade_da_falha": "2-3 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "LEVANTAMENTO TERRA CONVENCIONAL (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/uB_c9jpyieg",
+      "grupos_musculares": {
+        "primario": "Glúteo Máximo, Isquiotibiais",
+        "secundario": "Quadríceps, Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha o tronco rígido",
+        "Mantenha a barra próxima às pernas"
+      ],
+      "intervalo_de_repeticoes_recomendado": "4-8",
+      "proximidade_da_falha": "2-3 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "AGACHAMENTO BÚLGARO COM CALCANHAR ELEVADO (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/zf75Q2fFDqA",
+      "grupos_musculares": {
+        "primario": "Quadríceps, Glúteo Máximo",
+        "secundario": "Adutores"
+      },
+      "dicas_de_tecnica": [
+        "Jogue o peso sobre a perna da frente",
+        "Projete o joelho para a frente",
+        "Mantenha o tronco ereto"
+      ],
+      "intervalo_de_repeticoes_recomendado": "5-10",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "LEVANTAMENTO TERRA STIFF (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/AnXiXsJJbio",
+      "grupos_musculares": {
+        "primario": "Isquiotibiais, Glúteo Máximo",
+        "secundario": "Adutores, Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Empurre os quadris para trás",
+        "Mantenha a barra próxima às pernas",
+        "Leve flexão nos joelhos",
+        "Mantenha a posição neutra da coluna"
+      ],
+      "intervalo_de_repeticoes_recomendado": "5-10",
+      "proximidade_da_falha": "2-3 RIR (Repetições na Reserva)"
+    }
+  ]

@@ -1,0 +1,105 @@
+[
+    {
+      "nome_do_exercicio": "MERGULHO NAS PARALELAS (DIPS)",
+      "url_do_video": "https://www.youtube.com/embed/glFxfhN5lio",
+      "grupos_musculares": {
+        "primario": "Tríceps, Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Inicie o movimento com o peito",
+        "Ajuste a largura da pegada com base no conforto e no estímulo percebido"
+      ]
+    },
+    {
+      "nome_do_exercicio": "FLEXÃO FECHADA",
+      "url_do_video": "https://www.youtube.com/embed/SydR_IYX0-o",
+      "grupos_musculares": {
+        "primario": "Tríceps",
+        "secundario": "Peito, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Posicione as mãos mais próximas que a largura dos ombros",
+        "Mantenha os cotovelos junto ao tronco",
+        "Contraia o core e os glúteos para manter a coluna neutra"
+      ]
+    },
+    {
+      "nome_do_exercicio": "FLEXÃO FECHADA (COM JOELHOS)",
+      "url_do_video": "https://www.youtube.com/embed/Ojv1AD1-WeE",
+      "grupos_musculares": {
+        "primario": "Tríceps",
+        "secundario": "Peito, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Posicione as mãos mais próximas que a largura dos ombros",
+        "Mantenha os cotovelos junto ao tronco",
+        "Contraia o core e os glúteos para manter a coluna neutra"
+      ]
+    },
+    {
+      "nome_do_exercicio": "TRÍCEPS FRANCÊS (CABO)",
+      "url_do_video": "https://www.youtube.com/embed/Qv4XVbg2DN4",
+      "grupos_musculares": {
+        "primario": "Tríceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Ajuste o cabo na altura do quadril",
+        "Incline-se para a frente com uma base alternada",
+        "Alongamento completo na posição inferior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "TRÍCEPS TESTA (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/wzTNBjNY8dA",
+      "grupos_musculares": {
+        "primario": "Tríceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Aponte os cotovelos para o teto",
+        "Evite abrir os cotovelos"
+      ]
+    },
+    {
+      "nome_do_exercicio": "TRÍCEPS TESTA (BARRA EZ)",
+      "url_do_video": "https://www.youtube.com/embed/UOdQ59mDUmw",
+      "grupos_musculares": {
+        "primario": "Tríceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Controle a barra para trás da testa",
+        "Evite que os cotovelos abram significativamente"
+      ]
+    },
+    {
+      "nome_do_exercicio": "TRÍCEPS PUXADOR (BARRA EZ)",
+      "url_do_video": "https://www.youtube.com/embed/KqWAO0bi2PY",
+      "grupos_musculares": {
+        "primario": "Tríceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Trave os cotovelos junto ao corpo",
+        "Bloqueio completo do cotovelo a cada repetição",
+        "Leve inclinação para a frente",
+        "Evite qualquer movimento dos ombros"
+      ]
+    },
+    {
+      "nome_do_exercicio": "TRÍCEPS PUXADOR (CORDA)",
+      "url_do_video": "https://www.youtube.com/embed/LhtxET_siU0",
+      "grupos_musculares": {
+        "primario": "Tríceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Trave os cotovelos junto ao corpo",
+        "Bloqueio completo do cotovelo a cada repetição",
+        "Leve inclinação para a frente",
+        "Evite qualquer movimento dos ombros"
+      ]
+    }
+  ]

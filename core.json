@@ -1,0 +1,73 @@
+[
+    {
+      "nome_do_exercicio": "EXTENSÃO DE TRONCO NO BANCO (PESO CORPORAL)",
+      "url_do_video": "https://www.youtube.com/embed/mHVog1YhYsA",
+      "grupos_musculares": {
+        "primario": "Glúteo Máximo, Isquiotibiais",
+        "secundario": "Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha a parte superior das costas arredondada para minimizar o envolvimento dos eretores da espinha",
+        "Maximize o movimento a partir dos quadris, não da coluna"
+      ],
+      "intervalo_de_repeticoes_recomendado": "8-15",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "EXTENSÃO DE TRONCO NO BANCO (COM CARGA)",
+      "url_do_video": "https://www.youtube.com/embed/EhTZG3drNv0",
+      "grupos_musculares": {
+        "primario": "Glúteo Máximo, Isquiotibiais",
+        "secundario": "Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha a parte superior das costas arredondada para minimizar o envolvimento dos eretores da espinha",
+        "Maximize o movimento a partir dos quadris, não da coluna"
+      ],
+      "intervalo_de_repeticoes_recomendado": "8-15",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "LEVANTAMENTO TERRA CONVENCIONAL (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/uB_c9jpyieg",
+      "grupos_musculares": {
+        "primario": "Glúteo Máximo, Isquiotibiais",
+        "secundario": "Quadríceps, Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha o tronco rígido",
+        "Mantenha a barra próxima às pernas"
+      ],
+      "intervalo_de_repeticoes_recomendado": "4-8",
+      "proximidade_da_falha": "2-3 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "MESA FLEXORA",
+      "url_do_video": "https://www.youtube.com/embed/b_jAyOmHJYU",
+      "grupos_musculares": {
+        "primario": "Isquiotibiais",
+        "secundario": "Panturrilhas"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha os quadris apoiados no banco"
+      ],
+      "intervalo_de_repeticoes_recomendado": "8-15",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "LEVANTAMENTO TERRA STIFF (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/AnXiXsJJbio",
+      "grupos_musculares": {
+        "primario": "Isquiotibiais, Glúteo Máximo",
+        "secundario": "Adutores, Eretores da Espinha"
+      },
+      "dicas_de_tecnica": [
+        "Empurre os quadris para trás",
+        "Mantenha a barra próxima às pernas",
+        "Leve flexão nos joelhos",
+        "Mantenha a posição neutra da coluna"
+      ],
+      "intervalo_de_repeticoes_recomendado": "5-10",
+      "proximidade_da_falha": "2-3 RIR (Repetições na Reserva)"
+    }
+  ]

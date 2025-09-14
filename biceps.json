@@ -1,0 +1,75 @@
+[
+    {
+      "nome_do_exercicio": "ROSCA MARTELO",
+      "url_do_video": "https://www.youtube.com/embed/0WhYkP9B2b4",
+      "grupos_musculares": {
+        "primario": "Bíceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha os cotovelos junto ao corpo",
+        "Estenda totalmente os cotovelos na posição inferior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "ROSCA INCLINADA COM HALTERES",
+      "url_do_video": "https://www.youtube.com/embed/oXHmStcjw3I",
+      "grupos_musculares": {
+        "primario": "Bíceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Ajuste o banco com uma leve inclinação",
+        "Permita que os cotovelos se estendam totalmente na posição inferior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "ROSCA SCOTT (BARRA EZ)",
+      "url_do_video": "https://www.youtube.com/embed/sV1vYCMfFc4",
+      "grupos_musculares": {
+        "primario": "Bíceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Estenda totalmente os cotovelos na posição inferior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "ROSCA DIRETA NO CABO",
+      "url_do_video": "https://www.youtube.com/embed/uPYUtNGsAT8",
+      "grupos_musculares": {
+        "primario": "Bíceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Trave os cotovelos junto ao corpo",
+        "Controle durante todo o movimento",
+        "Evite qualquer movimento dos quadris para ganhar impulso"
+      ]
+    },
+    {
+      "nome_do_exercicio": "ROSCA DIRETA COM HALTERES",
+      "url_do_video": "https://www.youtube.com/embed/m-8DLVV40Dc",
+      "grupos_musculares": {
+        "primario": "Bíceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Trave os cotovelos junto ao corpo",
+        "Controle durante todo o movimento",
+        "Evite qualquer movimento dos quadris para ganhar impulso"
+      ]
+    },
+    {
+      "nome_do_exercicio": "ROSCA DIRETA (BARRA EZ)",
+      "url_do_video": "https://www.youtube.com/embed/HDYZpA5_Re0",
+      "grupos_musculares": {
+        "primario": "Bíceps",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Mantenha os cotovelos próximos ao tronco",
+        "Estenda totalmente os cotovelos na posição inferior"
+      ]
+    }
+  ]

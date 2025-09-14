@@ -1,0 +1,229 @@
+[
+    {
+      "nome_do_exercicio": "MERGULHO NAS PARALELAS (DIPS)",
+      "url_do_video": "https://www.youtube.com/embed/glFxfhN5lio",
+      "grupos_musculares": {
+        "primario": "Tríceps, Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Inicie o movimento com o peito",
+        "Ajuste a largura da pegada com base no conforto e no estímulo"
+      ],
+      "intervalo_de_repeticoes_recomendado": "6-15",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "SUPINO RETO (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/mFQ22MTKlBc",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Punho neutro",
+        "Antebraço perpendicular ao chão",
+        "Desça de forma controlada até a barra tocar o peito",
+        "Extensão completa do cotovelo no final do movimento"
+      ],
+      "intervalo_de_repeticoes_recomendado": "6-10",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "SUPINO RETO (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/_ZcucA19cds",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Punho neutro",
+        "Antebraço perpendicular ao chão",
+        "Desça de forma controlada até o halter tocar o peito",
+        "Extensão completa do cotovelo no final do movimento"
+      ],
+      "intervalo_de_repeticoes_recomendado": "8-15",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "SUPINO RETO (MÁQUINA SMITH)",
+      "url_do_video": "https://www.youtube.com/embed/y_vGhBb5NRk",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Punho neutro",
+        "Antebraço perpendicular ao chão",
+        "Desça de forma controlada até a barra tocar o peito",
+        "Extensão completa do cotovelo no final do movimento"
+      ],
+      "intervalo_de_repeticoes_recomendado": "6-10",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "CRUCIFIXO DEITADO PLANO (CABOS)",
+      "url_do_video": "https://www.youtube.com/embed/DQ9BTTmJQNI",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Desça de forma controlada para sentir um alongamento no peito na parte inferior do movimento",
+        "Contração total na posição final",
+        "Ajuste a posição do cotovelo com base no conforto e no estímulo do peito"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "CRUCIFIXO DEITADO PLANO (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/nj22mek1P0A",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Desça de forma controlada para sentir um alongamento no peito na parte inferior do movimento",
+        "Ajuste a posição do cotovelo com base no conforto e no estímulo do peito"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "SUPINO INCLINADO (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/FgisDG3be40",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Punho neutro",
+        "Antebraço perpendicular ao chão",
+        "Desça de forma controlada até a barra tocar o peito",
+        "Extensão completa do cotovelo no final do movimento"
+      ],
+      "intervalo_de_repeticoes_recomendado": "6-12",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "SUPINO INCLINADO (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/sbE2PlWJW5U",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Punho neutro",
+        "Desça de forma controlada até os halteres tocarem o peito",
+        "Incline os halteres com base no conforto e no estímulo do peito"
+      ],
+      "intervalo_de_repeticoes_recomendado": "8-15",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "SUPINO INCLINADO (MÁQUINA SMITH)",
+      "url_do_video": "https://www.youtube.com/embed/L5IQHkTAkNs",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Punho neutro",
+        "Antebraço perpendicular ao chão",
+        "Desça de forma controlada até a barra tocar o peito",
+        "Extensão completa do cotovelo no final do movimento"
+      ],
+      "intervalo_de_repeticoes_recomendado": "6-10",
+      "proximidade_da_falha": "1-2 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "CRUCIFIXO INCLINADO (CABOS)",
+      "url_do_video": "https://www.youtube.com/embed/v9QHXZ6bsRs",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Desça de forma controlada para sentir um alongamento no peito na parte inferior do movimento",
+        "Contração total na posição final",
+        "Ajuste a posição do cotovelo com base no conforto e no estímulo do peito"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "CRUCIFIXO INCLINADO (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/DWWkw5Y5CxM",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Desça os halteres até sentir um alongamento no peito",
+        "Suba estendendo completamente os cotovelos"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "FLEXÃO DE BRAÇO",
+      "url_do_video": "https://www.youtube.com/embed/2o0lPbqg8BI",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Contraia o core e os glúteos para manter a coluna neutra",
+        "Mantenha os cotovelos a aproximadamente 45 graus ao lado do corpo",
+        "Toque o tronco no chão a cada repetição"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "FLEXÃO DE BRAÇO (COM JOELHOS)",
+      "url_do_video": "https://www.youtube.com/embed/XDxZ5A0mbV8",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Tríceps, Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Contraia o core e os glúteos para manter a coluna neutra",
+        "Mantenha os cotovelos a aproximadamente 45 graus ao lado do corpo",
+        "Toque o tronco no chão a cada repetição"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "CRUCIFIXO SENTADO (CABOS)",
+      "url_do_video": "https://www.youtube.com/embed/1_F5yFd0Bl4",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Desça de forma controlada para sentir um alongamento no peito na parte inferior do movimento",
+        "Ajuste a posição do cotovelo com base no conforto e no estímulo do peito",
+        "Ajuste a posição do cabo com base no conforto e no estímulo do peito"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    },
+    {
+      "nome_do_exercicio": "CRUCIFIXO EM PÉ (CABOS)",
+      "url_do_video": "https://www.youtube.com/embed/M2euqa7W5JA",
+      "grupos_musculares": {
+        "primario": "Peito",
+        "secundario": "Deltoides Anteriores"
+      },
+      "dicas_de_tecnica": [
+        "Controle os cabos para trás até sentir um alongamento no peito",
+        "Puxe para frente enquanto estende totalmente os cotovelos",
+        "Toque os puxadores dos cabos um no outro na posição final"
+      ],
+      "intervalo_de_repeticoes_recomendado": "10-20",
+      "proximidade_da_falha": "0-1 RIR (Repetições na Reserva)"
+    }
+  ]

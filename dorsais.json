@@ -1,0 +1,124 @@
+[
+    {
+      "nome_do_exercicio": "REMADA CURVADA (BARRA)",
+      "url_do_video": "https://www.youtube.com/embed/_ywgRWBmGyQ",
+      "grupos_musculares": {
+        "primario": "Trapézio Inferior, Trapézio Médio, Trapézio Superior, Romboides, Deltoides Posteriores",
+        "secundario": "Dorsais, Eretores da Espinha, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Puxe em direção à parte superior da barriga",
+        "Aperte as escápulas uma contra a outra no final do movimento",
+        "Evite o movimento dos quadris para ganhar impulso"
+      ]
+    },
+    {
+      "nome_do_exercicio": "PUXADA FRONTAL (PEGADA NEUTRA)",
+      "url_do_video": "https://www.youtube.com/embed/v9dWg1GVc_0",
+      "grupos_musculares": {
+        "primario": "Dorsais, Trapézio Inferior",
+        "secundario": "Trapézio Médio, Romboides, Eretores da Espinha, Deltoides Posteriores, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Peito para cima, com uma leve inclinação para trás",
+        "Inicie o movimento com os cotovelos",
+        "Aperte as escápulas para trás e para baixo",
+        "Alongamento completo na posição superior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "PUXADA FRONTAL (PEGADA SUPIANDA)",
+      "url_do_video": "https://www.youtube.com/embed/AqGwRE-SaFw",
+      "grupos_musculares": {
+        "primario": "Dorsais, Trapézio Inferior",
+        "secundario": "Trapézio Médio, Romboides, Eretores da Espinha, Deltoides Posteriores, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Peito para cima, com uma leve inclinação para trás",
+        "Inicie o movimento com os cotovelos",
+        "Aperte as escápulas para trás e para baixo",
+        "Alongamento completo na posição superior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "PUXADA FRONTAL (PEGADA ABERTA)",
+      "url_do_video": "https://www.youtube.com/embed/Ph_xGA-HC-o",
+      "grupos_musculares": {
+        "primario": "Dorsais, Trapézio Inferior",
+        "secundario": "Trapézio Médio, Romboides, Eretores da Espinha, Deltoides Posteriores, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Peito para cima, com uma leve inclinação para trás",
+        "Inicie o movimento com os cotovelos",
+        "Aperte as escápulas para trás e para baixo",
+        "Alongamento completo na posição superior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "REMADA CAVALINHO",
+      "url_do_video": "https://www.youtube.com/embed/GeIZa1KnlcQ",
+      "grupos_musculares": {
+        "primario": "Trapézio Inferior, Trapézio Médio, Trapézio Superior, Romboides, Deltoides Posteriores",
+        "secundario": "Dorsais, Eretores da Espinha, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Puxe em direção à parte superior da barriga",
+        "Aperte as escápulas uma contra a outra no final do movimento",
+        "Evite o movimento dos quadris para ganhar impulso"
+      ]
+    },
+    {
+      "nome_do_exercicio": "BARRA FIXA (PEGADA SUPIANDA)",
+      "url_do_video": "https://www.youtube.com/embed/P2luagd0TX8",
+      "grupos_musculares": {
+        "primario": "Dorsais",
+        "secundario": "Trapézio Inferior, Trapézio Médio, Romboides, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Pegada na largura dos ombros",
+        "Toque a barra no corpo",
+        "Desça de forma controlada",
+        "Faça a suspensão completa na posição inferior"
+      ]
+    },
+    {
+      "nome_do_exercicio": "REMADA SENTADA (CABOS)",
+      "url_do_video": "https://www.youtube.com/embed/Whp37a2O1TU",
+      "grupos_musculares": {
+        "primario": "Trapézio Médio, Trapézio Inferior, Romboides, Dorsais",
+        "secundario": "Deltoides Posteriores, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Postura ereta",
+        "Puxe em direção à parte inferior do peito",
+        "Aperte as escápulas uma contra a outra no final do movimento",
+        "Evite o movimento dos quadris para ganhar impulso"
+      ]
+    },
+    {
+      "nome_do_exercicio": "PUXADA FRONTAL UNILATERAL (PEGADA NEUTRA)",
+      "url_do_video": "https://www.youtube.com/embed/3qdp_XhgOSo",
+      "grupos_musculares": {
+        "primario": "Dorsais, Trapézio Médio, Trapézio Inferior, Romboides",
+        "secundario": "Deltoides Posteriores, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Puxe a partir do cotovelo",
+        "Permita alguma rotação durante a puxada",
+        "Alongamento completo no final da fase excêntrica (alongada)"
+      ]
+    },
+    {
+      "nome_do_exercicio": "REMADA UNILATERAL (SERROTE)",
+      "url_do_video": "https://www.youtube.com/embed/pgZgueSYycA",
+      "grupos_musculares": {
+        "primario": "Trapézio Médio, Trapézio Inferior, Romboides, Dorsais",
+        "secundario": "Deltoides Posteriores, Bíceps"
+      },
+      "dicas_de_tecnica": [
+        "Puxe a partir do cotovelo",
+        "Permita a protração da escápula na posição inferior",
+        "Permita alguma rotação durante a puxada"
+      ]
+    }
+  ]

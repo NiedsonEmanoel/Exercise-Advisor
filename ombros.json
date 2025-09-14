@@ -1,0 +1,76 @@
+[
+    {
+      "nome_do_exercicio": "PUXADA ALTA (FACE PULL)",
+      "url_do_video": "https://www.youtube.com/embed/gWRREo_YdUw",
+      "grupos_musculares": {
+        "primario": "Deltoides Posteriores, Deltoides Mediais, Trapézio Superior",
+        "secundario": "N/A"
+      },
+      "dicas_de_tecnica": [
+        "Inicie o movimento com os cotovelos",
+        "Puxe para qualquer lugar entre a altura dos ombros e dos olhos"
+      ]
+    },
+    {
+      "nome_do_exercicio": "CRUCIFIXO INVERSO (CABOS)",
+      "url_do_video": "https://www.youtube.com/embed/V9IZrAULoqs",
+      "grupos_musculares": {
+        "primario": "Deltoides Posteriores",
+        "secundario": "Trapézio Superior"
+      },
+      "dicas_de_tecnica": [
+        "Ajuste os cabos na altura dos ombros",
+        "Permita que os cabos puxem seus braços, cruzando na frente do corpo"
+      ]
+    },
+    {
+      "nome_do_exercicio": "DESENVOLVIMENTO SENTADO (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/Uj52XT-g6rA",
+      "grupos_musculares": {
+        "primario": "Deltoides Anteriores",
+        "secundario": "Deltoides Laterais, Trapézio Superior, Tríceps"
+      },
+      "dicas_de_tecnica": [
+        "Ajuste o banco com uma inclinação muito leve (não totalmente vertical)",
+        "Desça até os halteres tocarem os ombros"
+      ]
+    },
+    {
+      "nome_do_exercicio": "DESENVOLVIMENTO SENTADO (MÁQUINA SMITH)",
+      "url_do_video": "https://www.youtube.com/embed/qeGLCpSfzCo",
+      "grupos_musculares": {
+        "primario": "Deltoides Anteriores",
+        "secundario": "Deltoides Laterais, Trapézio Superior, Tríceps"
+      },
+      "dicas_de_tecnica": [
+        "Ajuste o banco com uma inclinação muito leve (não totalmente vertical)",
+        "Desça até a barra tocar os ombros"
+      ]
+    },
+    {
+      "nome_do_exercicio": "ELEVAÇÃO LATERAL EM PÉ (CABO)",
+      "url_do_video": "https://www.youtube.com/embed/4YkgTfh4V4k",
+      "grupos_musculares": {
+        "primario": "Deltoides Laterais, Deltoides Posteriores",
+        "secundario": "Deltoides Anteriores, Trapézio Superior"
+      },
+      "dicas_de_tecnica": [
+        "Eleve pelo menos até a altura dos ombros",
+        "Segure um objeto firme para aumentar a estabilidade"
+      ]
+    },
+    {
+      "nome_do_exercicio": "ELEVAÇÃO LATERAL EM PÉ (HALTERES)",
+      "url_do_video": "https://www.youtube.com/embed/czhFkMTkhrE",
+      "grupos_musculares": {
+        "primario": "Deltoides Laterais, Deltoides Posteriores",
+        "secundario": "Deltoides Anteriores, Trapézio Superior"
+      },
+      "dicas_de_tecnica": [
+        "Incline-se ligeiramente para a frente",
+        "Eleve os halteres com força até pelo menos a altura dos ombros",
+        "Desça de forma controlada",
+        "Permita uma leve flexão nos cotovelos"
+      ]
+    }
+  ]
